@@ -12,3 +12,4 @@
 | 2026-11-24 | [그 길 아니야, 돌아가: 백트래킹](posts/backtracking/README.md) |
 | 2026-11-24 | [사장 나오라 그래!: 유니온 파인드](posts/union-find/README.md) |
 | 2026-11-24 | [BFS: 근데 0-1을 곁들인](posts/bfs/README.md) |
+| 2026-11-25 | [새치기 좀 할게요: 다익스트라](posts/dijkstra/README.md) |

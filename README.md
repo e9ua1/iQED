@@ -9,3 +9,4 @@
 | 2026-11-23 | [답만으론 부족하다면: 역추적](posts/backtrace/README.md) |
 | 2026-11-23 | [값 하나를 고정하면 풀린다: 이분탐색 + α](posts/binary-search/README.md) |
 | 2026-11-24 | [재귀 좀 쳐?: 정규표현식](posts/recursion-regex/README.md) |
+| 2026-11-24 | [그 길 아니야, 돌아가: 백트래킹](posts/backtracking/README.md) |

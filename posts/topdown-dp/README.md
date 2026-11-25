@@ -1,4 +1,4 @@
-# for문 순서를 모르겠다면: 탑다운 DP
+# for문 순서? 몰라도 돼: 탑다운 DP
 
 > rilog 발행 글: <https://www.rilog.kr/@iqed/posts/608> (2026-11-23)
 

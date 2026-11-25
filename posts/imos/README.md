@@ -1,4 +1,4 @@
-# 누적합을 n번 만들고 있다면: IMOS
+# 점만 찍고 튀어: IMOS
 
 > rilog 발행 글: <https://www.rilog.kr/@iqed/posts/602> (2026-11-21)
 

@@ -16,3 +16,4 @@
 | 2026-11-25 | [PS 수학: 기본편](posts/ps-math-basic/README.md) |
 | 2026-11-25 | [PS 수학: 심화편](posts/ps-math-advanced/README.md) |
 | 2026-11-25 | [PS 수학: 대회편](posts/ps-math-contest/README.md) |
+| 2026-11-26 | [순서 좀 지킵시다: 위상정렬](posts/topological-sort/README.md) |

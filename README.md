@@ -17,3 +17,5 @@
 | 2026-11-25 | [PS 수학: 심화편](posts/ps-math-advanced/README.md) |
 | 2026-11-25 | [PS 수학: 대회편](posts/ps-math-contest/README.md) |
 | 2026-11-26 | [순서 좀 지킵시다: 위상정렬](posts/topological-sort/README.md) |
+| 2026-11-26 | [더한 거 어디 안 가: 누적합](posts/prefix-sum/README.md) |
+| 2026-11-26 | [뭉치면 죽고 흩어지면 산다: 분할정복](posts/divide-and-conquer/README.md) |
